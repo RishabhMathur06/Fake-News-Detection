@@ -1,4 +1,4 @@
-# Fake_News-Detection
+# Fake-News-Detection
 
 Fake news is the intentional broadcasting of false or misleading claims as news, where the statements are purposely deceitful.
 
